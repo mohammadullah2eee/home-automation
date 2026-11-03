@@ -97,7 +97,7 @@ For every detail see [BUILD_GUIDE.md](BUILD_GUIDE.md).
 ![Web page](images/web-page.png)
 ![Hardware](images/hardware.jpg)
 
-[Add a link to your YouTube demo video here.]
+https://youtube.com/shorts/9HGuR0D7sxA?si=4JX39cTB8jOhEFS_
 
 ## Known limits and ideas to improve it
 
@@ -106,9 +106,6 @@ For every detail see [BUILD_GUIDE.md](BUILD_GUIDE.md).
 - **State is not remembered:** after a power cut both relays return to OFF.
 - **Ideas:** join your home Wi-Fi network (station mode), add more relays, add a timer, add sensors (temperature, motion) or control it from anywhere with MQTT.
 
-## What I learned
-
-[Write one or two sentences, for example how a relay isolates the control board from the load or how an ESP32 can act as a web server.]
 
 ## Tools
 
