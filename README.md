@@ -97,7 +97,7 @@ For every detail see [BUILD_GUIDE.md](BUILD_GUIDE.md).
 ![Web page](images/web-page.png)
 ![Hardware](images/hardware.jpg)
 
-https://youtube.com/shorts/9HGuR0D7sxA?si=4JX39cTB8jOhEFS_
+![To see the project](https://youtube.com/shorts/9HGuR0D7sxA?si=4JX39cTB8jOhEFS_).
 
 ## Known limits and ideas to improve it
 
