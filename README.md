@@ -94,7 +94,7 @@ For every detail see [BUILD_GUIDE.md](BUILD_GUIDE.md).
 
 ## Photos and demo
 
-![Web page](images/web-page.png)
+![Web page](images/web-page.svg)
 ![Hardware](images/hardware.jpg)
 
 [To see the project](https://youtube.com/shorts/9HGuR0D7sxA?si=4JX39cTB8jOhEFS_).
